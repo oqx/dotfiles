@@ -9,7 +9,7 @@ Plug 'jasonwoodland/vim-html-indent'
 Plug 'prettier/vim-prettier', {
   \ 'do': 'npm install',
   \ 'for': ['javascript', 'typescript', 'css', 'scss', 'json', 'graphql', 'markdown']}
-Plug 'itchyny/lightline.vim'
+"Plug 'itchyny/lightline.vim'
 Plug 'tpope/vim-surround'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'mattn/emmet-vim'
@@ -18,6 +18,7 @@ Plug 'cakebaker/scss-syntax.vim'
 Plug 'hail2u/vim-css3-syntax'
 Plug 'chrisbra/Colorizer'
 Plug 'itchyny/vim-gitbranch'
+Plug 'vim-airline/vim-airline'
 
 call plug#end()
 
